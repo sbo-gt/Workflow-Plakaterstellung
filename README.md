@@ -37,7 +37,9 @@ Inkscape nutze ich für vektororientierte Grafiken wie das SBO-Logo und die Film
 ### Scribus
 **Das Plakat selber**
 Scribus ist ein Desktop-Publishing-Programm für den Seitenlaxout
-Mit Scribus erstelle ich die Druckperzeugnisse selber, da das Programm bisher alles mitbrachte, was ich brauchte. Zudem ist  das eigene Format (.sla sehr klein, das es eigeentlich nur Verweise erhält und mit einem Texteditor zu Lesen und zu bearbeiten). Im letzten Schritt wird dann pdf exportiert oder auch jpg/png.
+Mit Scribus erstelle ich die Druckperzeugnisse selber, da das Programm bisher alles mitbringt, was ich brauche. Zudem ist  das eigene Format (.sla sehr klein, das es eigeentlich nur Verweise erhält und mit einem Texteditor zu Lesen und zu bearbeiten). 
+Also einfügen von Texten und Grafiken, Logos,...
+Im letzten Schritt wird dann pdf exportiert oder auch jpg/png.
 
 ### vscode
 **Der Texteditor schlechthin**

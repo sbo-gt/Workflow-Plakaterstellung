@@ -15,7 +15,7 @@ Workflow, wie ich Plakate, Banner u.a. für das SBO erstelle (Work in Progress)
 
 ## Nutzung der Programme
 
-[Beispiele](Beispiele/Plakat_Film_ab.pdf)
+[aktuelles Plakat](Beispiele/Plakat_Film_ab.pdf)
 
 
 

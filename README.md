@@ -19,7 +19,7 @@ Workflow, wie ich Plakate, Banner u.a. für das SBO erstelle (Work in Progress)
 [aktuelle Plakat: Film ab!](Beispiele/Plakat_Film_ab.pdf)**
 
 Kleine Erklärung:
-Ich habe früher (ich bin im Orchester seit 1986 - und Webseite und Plakate habe ich recht bald gemacht) die Plakate mit CorelDraw gebaut, was ich bis zur Version 4 auch selber besessen habe und auch unterrichtet habe. Irgendwann habe ich von Maik eine Version 10(?) oder so bekommen. Das Problem ist halt, dass es nur Windowws ist, Geld kostet und nicht als portableApp (also direkt vom Stick) vorhanden ist.
+Ich habe früher (ich bin im Orchester seit 1986 - und Webseite und Plakate habe ich recht bald erstellt) die Plakate mit CorelDraw gebaut, was ich bis zur Version 4 auch selber besessen habe und auch unterrichtet habe. Irgendwann habe ich von Maik eine Version 10(?) oder so bekommen. Das Problem ist halt, dass es nur für Windowws ist, Geld kostet und nicht als portableApp (also direkt vom Stick) vorhanden ist.
 Da ich in meiner Firma bis auf Windows weder MS Office noch sonstige Bezahlsoftware hatte, habe ich dort auch schon seit Jahren LibreOffice, Gimp, inkscape und scribus genutzt - entweder direkt auf dem Rechner oder als portabeleApps.
 In der Firma und mittlerweile auch zu Hause bin ich auf Linux/Ubuntu umgestiegen und kann die obige Software nahtlos kostenfrei weiternutzen (Ginge auch bei einem MAC) die Einzigen Probleme, die ich hatte waren ein paar Schriftarten, die ich genutzt hatte und die von MS lisenziert sind, aber das Problem gehe ich im Moment an.
 

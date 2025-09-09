@@ -44,7 +44,7 @@ Im letzten Schritt wird dann pdf exportiert oder auch jpg/png.
 
 ### vscode
 **Der Texteditor schlechthin**
-vscode ist das einzige Programm von Microsoft, was ich auch beruflich viel nutze, kostenfrei modular und sehr gut. Bearbeiten von Textdateien, Programmierung, diese Anleitung,...
+vscode ist das einzige Programm von Microsoft, was ich auch beruflich viel nutze, kostenfrei modular und sehr gut. Bearbeiten von Textdateien, Programmierung, diese Anleitung,... 
 
 ### PDF24
 **Bearbeiten von PDFDatein**
